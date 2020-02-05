@@ -28,4 +28,4 @@ $ cd demo-apis-com-drf-vue-ui
 5. Será servido no navegador a Lista de Authores da API através da URL: /  
    The API List of Authors will be served in the browser through the URL: 
 
-http://localhost:3000/
+http://localhost:8080/
